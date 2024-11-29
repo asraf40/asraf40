@@ -31,5 +31,5 @@ Skills: WordPress/Wix/ HTML / CSS/JavaScript
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript/PHP/MySQL 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Website design 
+- 💬 Ask me about Website design & development 
 - 📫 How to reach me: +8801888176016(whatsapp) 
